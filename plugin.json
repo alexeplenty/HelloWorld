@@ -1,0 +1,8 @@
+{
+  "name"              :"HiWorld",
+  "description"       :"If this works I wil be happy",
+  "namespace"         :"HelloWorld",
+  "author"            :"Escho",
+  "type"              :"template",
+  "serviceProvider"   :"helloworld\\Providers\\HiWorldServiceProvider"
+}
