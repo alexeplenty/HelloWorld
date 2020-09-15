@@ -4,7 +4,7 @@ namespace HelloWorld\Providers;
 
 use Plenty\Plugin\ServiceProvider;
 
-class HiWorldServiceProvider extends ServiceProvider
+class HelloWorldServiceProvider extends ServiceProvider
 {
 
     /**
@@ -13,7 +13,7 @@ class HiWorldServiceProvider extends ServiceProvider
 
     public function register()
     {
-        $this->getApplication()->register(HiWorldRouteServiceProvider::class);
+        $this->getApplication()->register(HelloWorldRouteServiceProvider::class);
 
     }
 }
