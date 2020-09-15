@@ -4,5 +4,5 @@
   "namespace"         :"HelloWorld",
   "author"            :"Escho",
   "type"              :"template",
-  "serviceProvider"   :"helloworld\\Providers\\HiWorldServiceProvider"
+  "serviceProvider"   :"HelloWorld\\Providers\\HiWorldServiceProvider"
 }
