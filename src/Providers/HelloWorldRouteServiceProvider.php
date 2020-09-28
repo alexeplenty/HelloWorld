@@ -10,9 +10,7 @@ use Plenty\Plugin\Routing\Router;
  */
 class HelloWorldRouteServiceProvider extends RouteServiceProvider
 {
-    /**
-     * @param Router $router
-     */
+
     public function map(Router $router)
     {
         $router->get('hello', 'HelloWorld\Controllers\ContentController@sayHello');

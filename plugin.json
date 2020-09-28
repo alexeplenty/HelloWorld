@@ -1,6 +1,6 @@
 {
-  "name"              :"HiWorld",
-  "description"       :"If this works I wil be happy",
+  "name"              :"HiWorld - Custom",
+  "description"       :"Try To Not give me a 500 Please",
   "namespace"         :"HelloWorld",
   "author"            :"Escho",
   "type"              :"template",
